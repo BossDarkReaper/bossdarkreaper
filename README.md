@@ -2,7 +2,7 @@
 
 👋 Hi, I'm BossDarkReaper, a passionate self-taught backend developer from the UK. 
 
-[![BossDarkReaper's github stats](https://imwnk-github-stats.vercel.app/api?username=BossDarkReaper&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide=stars,contribs)](https://github.com/BossDarkReaper)
+[![BossDarkReaper's github stats](https://github-readme-stats.vercel.app/api?username=BossDarkReaper&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide=stars,contribs)](https://github.com/BossDarkReaper)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
