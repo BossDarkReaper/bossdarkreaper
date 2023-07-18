@@ -3,6 +3,8 @@
 👋 Hi, I'm BossDarkReaper, a passionate self-taught backend developer from the UK. 
 
 [![BossDarkReaper's github stats](https://github-readme-stats-bossdarkreaper.vercel.app/api?username=BossDarkReaper&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide=stars)](https://github.com/BossDarkReaper)
+
+[![BossDarkReaper's github stats](https://github-profile-trophy-livid.vercel.app/?username=bossdarkreaper&theme=discord&column=-1&title=MultiLanguage,PullRequest,Commits&margin-w=15)](https://github.com/BossDarkReaper)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
