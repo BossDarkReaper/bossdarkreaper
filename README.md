@@ -10,7 +10,7 @@
 
 ### About
 
--  **Learning :** Full-Stack Development :zap:   
+-  **Learning :** Golang :zap:   
 -  **Language :** C#
 -  **Hobbies :** Anime (⁀ᗢ⁀) & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
